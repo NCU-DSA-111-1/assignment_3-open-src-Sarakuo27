@@ -1,1 +1,9 @@
-[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-c66648af7eb3fe8bc4f294546bfd86ef473780cde1dea487d3c4ff354943c9ae.svg)](https://classroom.github.com/online_ide?assignment_repo_id=9711580&assignment_repo_type=AssignmentRepo)
+測資輸入
+-----
+Compile之後首先要輸入要比較的測資個數<br>
+接著輸入字符(每輸入一個英文字母需按一次enter鍵)<br>
+最後依序輸入每個字母分別的使用頻率<br>
+
+編譯結果
+------
+分別輸出 Huffman coding 以及 Arithmetic coding 的執行結果<br>
