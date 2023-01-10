@@ -1,0 +1,53 @@
+# depslib dependency file v1.0
+1672749965 source:c:\users\user\desktop\huffman\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<string>
+	<algorithm>
+	<unordered_map>
+	<deque>
+	"huffman.h"
+	"Arithmetic.h"
+	<time.h>
+
+1672746753 c:\users\user\desktop\huffman\huffman.h
+	<deque>
+	<string>
+	<algorithm>
+	<iostream>
+	<unordered_map>
+
+1672749338 c:\users\user\desktop\huffman\arithmetic.h
+	<iostream>
+	<unordered_map>
+	<string>
+	<vector>
+	<time.h>
+
+1672749965 source:c:\users\user\desktop\hw4\huffman\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<string>
+	<algorithm>
+	<unordered_map>
+	<deque>
+	"huffman.h"
+	"Arithmetic.h"
+	<time.h>
+
+1672746753 c:\users\user\desktop\hw4\huffman\huffman.h
+	<deque>
+	<string>
+	<algorithm>
+	<iostream>
+	<unordered_map>
+
+1672749338 c:\users\user\desktop\hw4\huffman\arithmetic.h
+	<iostream>
+	<unordered_map>
+	<string>
+	<vector>
+	<time.h>
+

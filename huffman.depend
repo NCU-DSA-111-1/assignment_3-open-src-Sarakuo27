@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1672650046 source:c:\users\user\desktop\huffman\main.c
+	<stdio.h>
+	<malloc.h>
+	<string.h>
+	<stdlib.h>
+	<sys/time.h>
+
+1672745369 source:c:\users\user\desktop\huffman\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<string>
+	<algorithm>
+	<unordered_map>
+	<deque>
+	"huffman.h"
+	<time.h>
+
+1672745164 c:\users\user\desktop\huffman\huffman.h
+	<deque>
+	<string>
+	<algorithm>
+	<iostream>
+	<unordered_map>
+
